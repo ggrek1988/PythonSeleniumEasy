@@ -17,6 +17,7 @@ driver.implicitly_wait(5) # seconds
 
 
 try:
+
     WebDriverWait_def.WebDriverWait_byID(driver,'submit-control',10)
 
     print ('wczytuje')
