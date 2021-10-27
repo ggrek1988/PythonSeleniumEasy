@@ -29,6 +29,6 @@ Example Solution Python selenium
 23) Table _ilter_Demo
 24) Table_Data_Download
 25) Table_Sort_And_Search
-26)Table_with_Pagination_Example
+26) Table_with_Pagination_Example
 27) Type_in_your_search
-28)Window_popup_Modal
+28) Window_popup_Modal
