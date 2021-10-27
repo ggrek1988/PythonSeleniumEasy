@@ -1,8 +1,9 @@
 from selenium import webdriver
 import time
+import url_website
 
 driver = webdriver.Firefox()
-driver.get("https://www.seleniumeasy.com/test/bootstrap-alert-messages-demo.html")
+driver.get(url_website.url_Bootstrap_Alert_messages)
 
 driver.find_element_by_xpath('//button[@id="autoclosable-btn-success"]').click()
 if driver.find_element_by_xpath('//button[@id="autoclosable-btn-success"]'):

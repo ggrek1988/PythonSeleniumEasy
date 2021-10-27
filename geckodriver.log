@@ -1,14 +1,15 @@
-1635316789925	geckodriver	INFO	Listening on 127.0.0.1:50767
-1635316793044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ggrek\\AppData\\Local\\Temp\\rust_mozprofiledoJzK2"
-1635316793926	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ggrek\\AppData\\Local\\Temp\\rust_mozprofiledoJzK2\\search.json.mozlz4", (void 0)))
-1635316798338	Marionette	INFO	Listening on port 50775
-1635316798437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635323411936	geckodriver	INFO	Listening on 127.0.0.1:62200
+1635323414975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ggrek\\AppData\\Local\\Temp\\rust_mozprofileIylthD"
+1635323415805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ggrek\\AppData\\Local\\Temp\\rust_mozprofileIylthD\\search.json.mozlz4", (void 0)))
+1635323419723	Marionette	INFO	Listening on port 62208
+1635323419807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 228: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=82
-JavaScript warning: https://pagead2.googlesyndication.com/bg/RoWIF5mDLIotv0Cy6dtZXjafFgIOcjS1qvYEJExYR_Y.js line 1 > eval line 3986 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DIeR_ChadNgTBsCXk9stWB0bjB2ydD9ZwSTjhZMF6xA.js line 1 > eval line 552 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+t error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RoWIF5mDLIotv0Cy6dtZXjafFgIOcjS1qvYEJExYR_Y.js line 1 > eval line 7326 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
 JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined

@@ -3,9 +3,10 @@
 
 from selenium import webdriver
 import random
+import url_website
 
 driver = webdriver.Firefox()
-driver.get("https://www.seleniumeasy.com/test/bootstrap-date-picker-demo.html")
+driver.get(url_website.url_Bootstrap_Date_Picker)
 
 #Date Example
 driver.find_element_by_xpath('//input[@class="form-control"]').click()
