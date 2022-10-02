@@ -4,7 +4,7 @@ This is a project with my solution of some proposed exercises from https://demo.
 ## **Tools**
 Project is created with:
 * Python 2.7.18
-* Selenium WebDriver 4
+* Selenium WebDriver
 
 ## **Example Solution** 
 1) Ajax_Form_Submit
