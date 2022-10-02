@@ -6,7 +6,7 @@ Project is created with:
 * Python 2.7.18
 * Selenium WebDriver 4
 
-## **Example Solution Python selenium** 
+## **Example Solution** 
 1) Ajax_Form_Submit
 2) Bootstrap_Alert_messages
 3) Bootstrap_Date_Picker
