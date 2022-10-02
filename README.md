@@ -1,7 +1,10 @@
+# SeleniumEasy
+This is a project with my solution of some proposed exercises from https://demo.seleniumeasy.com/ 
 
-additional files
-1) url_website.py
-2) WebDriverWait_def
+## **Tools**
+Project is created with:
+* Python 2.7.18
+* Selenium WebDriver 4
 
 Example Solution Python selenium
 1) Ajax_Form_Submit
